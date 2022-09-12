@@ -1,0 +1,15 @@
+C:\Users\eworld\Desktop\test\bin\Debug\net6.0\GenesysCodeTest.exe
+C:\Users\eworld\Desktop\test\bin\Debug\net6.0\GenesysCodeTest.deps.json
+C:\Users\eworld\Desktop\test\bin\Debug\net6.0\GenesysCodeTest.runtimeconfig.json
+C:\Users\eworld\Desktop\test\bin\Debug\net6.0\GenesysCodeTest.dll
+C:\Users\eworld\Desktop\test\bin\Debug\net6.0\GenesysCodeTest.pdb
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.csproj.AssemblyReference.cache
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.AssemblyInfoInputs.cache
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.AssemblyInfo.cs
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.csproj.CoreCompileInputs.cache
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.dll
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\refint\GenesysCodeTest.dll
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.pdb
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\GenesysCodeTest.genruntimeconfig.cache
+C:\Users\eworld\Desktop\test\obj\Debug\net6.0\ref\GenesysCodeTest.dll
