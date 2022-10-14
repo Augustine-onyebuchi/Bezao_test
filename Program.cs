@@ -7,9 +7,9 @@ namespace Test
     {
         public static void Main(string[] args)
         {
-            LeapYearSolution.Run();
-            // GuessGameSolution.GuessNumber();
-            // PigLatinSolution.Run();
+            // LeapYearSolution.Run();
+            //  GuessGameSolution.GuessNumber();
+            PigLatinSolution.Run();
         }
     }
 }
